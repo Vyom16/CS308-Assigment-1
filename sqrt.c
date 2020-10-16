@@ -8,6 +8,7 @@ positive number. */
 int main(int argc, char* argv[]) {
 	
 	if (argc != 2) {
+		printf("Generate Conflict");
 		printf("Usage: sqrt input\n\n");
 		exit(-1);
 	}
