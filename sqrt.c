@@ -9,8 +9,8 @@ int main(int argc, char* argv[]) {
 	
 	if (argc != 2) {
 		printf("Generate Conflict");
-		printf("Is Conflict Generated");
 		printf("Usage: sqrt input\n\n");
+		printf("Is Conflict Generated");
 		exit(-1);
 	}
 	int input = atoi(argv[1]);
