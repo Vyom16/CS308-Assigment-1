@@ -1,6 +1,6 @@
 /* This program computes the square root of a
 positive number. */
-
+// Initial Working Code for Square root
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
